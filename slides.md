@@ -15,7 +15,8 @@ info: |
   ## Slidev Starter Template
   Presentation slides for developers.
 
-  Learn more at [Sli.dev](https://sli.dev)
+  
+
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -25,9 +26,8 @@ transition: slide-left
 css: unocss
 ---
 
-# Welcome to Slidev
-
-Presentation slides for developers
+# What is DBFit 
+## Old Dogs and New Tricks
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
